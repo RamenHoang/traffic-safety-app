@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Biển số R.301a",
+        "image": "images/bien-bao-hieu-lenh/r301a.png",
+        "description": [
+            "Các xe chỉ được đi thẳng; Khi đặt biển số R.301a ở trước nơi đường giao nhau thì hiệu lực tác dụng của biển là ở phạm vi khu vực nơi đường giao nhau phía sau biển tức là cấm xe rẽ phải hay rẽ trái.",
+            "Nếu biển đặt ở sau nơi đường giao nhau (bắt đầu vào đoạn đường phố) thì hiệu lực tác dụng của biển là từ vị trí đặt biển đến nơi đường giao nhau. Trong trường hợp này cấm rẽ trái và quay đầu trong vùng tác dụng của biển, chỉ cho phép rẽ phải vào cổng nhà hoặc ngõ phố có trên đoạn đường từ nơi đường giao nhau đặt biển đến nơi đường giao nhau tiếp theo. "
+        ]
+    },
+    {
+        "name": "Biển số R.301b",
+        "image": "images/bien-bao-hieu-lenh/r301b.png",
+        "description": [
+            "Các xe chỉ được rẽ phải; được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển. "
+        ]
+    },
+    {
+        "name": "Biển số R.301c",
+        "image": "images/bien-bao-hieu-lenh/r301c.png",
+        "description": [
+            "Các xe chỉ được rẽ trái; được đặt ở sau nơi đường giao nhau nhằm chỉ hướng cho phép xe đi ngang qua nơi đường giao nhau và ngăn chặn hướng đi ngược chiều trên đường phố với đường một chiều. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau trước mặt biển. "
+        ]
+    },
+    {
+        "name": "Biển số R.301d",
+        "image": "images/bien-bao-hieu-lenh/r301d.png",
+        "description": [
+            "Các xe chỉ được rẽ phải; được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển"
+        ]
+    },
+    {
+        "name": "Biển số R.301e",
+        "image": "images/bien-bao-hieu-lenh/r301e.png",
+        "description": [
+            "Các xe chỉ được rẽ trái; được đặt ở trước nơi đường giao nhau. Biển bắt buộc người tham gia giao thông chỉ được phép rẽ phải hoặc rẽ trái ở phạm vi nơi đường giao nhau đằng sau mặt biển"
+        ]
+    }
+]

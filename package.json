@@ -1,0 +1,26 @@
+{
+  "name": "traffic-safety-app",
+  "version": "1.0.0",
+  "description": "Ứng dụng web An toàn giao thông",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "traffic",
+    "safety",
+    "education",
+    "express",
+    "ejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}

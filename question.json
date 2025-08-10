@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "question": "Khi tham gia giao thông, trường hợp nào dưới đây là không an toàn, gây nguy hiểm?",
+        "options": [
+            "Đi qua đường cùng người lớn.",
+            "Không đội mũ bảo hiểm khi ngồi trên xe mô tô, xe máy.",
+            "Đi xe đạp chở 1 người ngồi sau."
+        ],
+        "correctAnswer": "Không đội mũ bảo hiểm khi ngồi trên xe mô tô, xe máy."
+    },
+    {
+        "id": 2,
+        "question": "Khi đi qua chỗ đường giao nhau, có tín hiệu đèn, em cần chú ý điều gì?",
+        "options": [
+            "Quan sát kỹ tín hiệu đèn giao thông, khi đèn xanh bật mới được đi.",
+            "Nhờ người lớn dẫn qua đường.",
+            "Không chú ý tín hiệu đèn mà đi sát lề đường bên phải"
+        ],
+        "correctAnswer": "Quan sát kỹ tín tín hiệu đèn giao thông, khi đèn xanh bật mới được đi."
+    },
+    {
+        "id": 3,
+        "question": "Em cùng các bạn đi học về thấy một số bạn chơi đùa trên đường, em sẽ làm gì?",
+        "options": [
+            "a) Nhắc các bạn không chơi đùa trên đường vì không an toàn.",
+            "b) Vui chơi cùng các bạn.",
+            "c) Vẫn đi bình thường như không có việc gì xảy ra."
+        ],
+        "correctAnswer": "a) Nhắc các bạn không chơi đùa trên đường vì không an toàn."
+    },
+    {
+        "id": 4,
+        "question": "Em và bạn em muốn qua đường nhưng quãng đường ấy có nhiều xe cộ đi lại, em sẽ làm thế nào để qua đường an toàn?",
+        "options": [
+            "a) Đứng chờ lúc nào vắng xe sẽ chạy nhanh qua.",
+            "b) Nắm tay cùng nhau cùng xin đường để qua.",
+            "c) Nhờ người lớn dắt qua."
+        ],
+        "correctAnswer": "c) Nhờ người lớn dắt qua."
+    },
+    {
+        "id": 5,
+        "question": "Em được người lớn đèo bằng xe máy đi trên đường, em phải ngồi thế nào cho an toàn?",
+        "options": [
+            "a) Đội mũ bảo hiểm và ngồi trước người lớn.",
+            "b) Đội mũ bảo hiểm, ngồi sau người lớn và bám chắc vào người lớn.",
+            "c) Đội mũ bảo hiểm và ngồi sau người lớn."
+        ],
+        "correctAnswer": "b) Đội mũ bảo hiểm, ngồi sau người lớn và bám chắc vào người lớn."
+    },
+    {
+        "id": 6,
+        "question": "Các hành động nào dưới đây khi tham gia giao thông là đúng?",
+        "options": [
+            "a) Ngồi trên xe ô tô nghiêm túc không mở cửa thò đầu hoặc tay, chân ra ngoài.",
+            "b) Ngồi sau xe máy dang hai tay, chân khi xe chạy trên đường.",
+            "c) Bám vào sau xe ô tô khi xe đang chạy."
+        ],
+        "correctAnswer": "a) Ngồi trên xe ô tô nghiêm túc không mở cửa thò đầu hoặc tay, chân ra ngoài."
+    },
+    {
+        "id": 7,
+        "question": "Hệ thống giao thông đường bộ ở nước ta gồm mấy loại đường?",
+        "options": [
+            "a) 3 loại đường (Đường quốc lộ, đường tỉnh, đường đô thị)",
+            "b) 4 loại đường (Đường quốc lộ, đường tỉnh, đường đô thị, đường huyện)",
+            "c) 5 loại đường (Đường quốc lộ, đường tỉnh, đường đô thị, đường huyện, đường làng xã)"
+        ],
+        "correctAnswer": "c) 5 loại loại đường (Đường quốc lộ, đường tỉnh, đường đô thị, đường huyện, đường làng xã)"
+    },
+    {
+        "id": 8,
+        "question": "Đi bộ trên quốc lộ phải đi như thế nào?",
+        "options": [
+            "a) Đi sát lề đường, không chơi đùa, ngồi dưới lòng đường.",
+            "b) Chỉ qua đường khi đoạn đường không có xe cộ qua lại.",
+            "c) Cả 2 ý trên."
+        ],
+        "correctAnswer": "c) Cả 2 ý trên."
+    },
+    {
+        "id": 9,
+        "question": "Đặc điểm của biển báo nguy hiểm là gì?",
+        "options": [
+            "a) Hình tam giác màu vàng, viền màu đỏ, giữa có hình vẽ màu đen biểu thị nội dung sự nguy hiểm cần biết.",
+            "b) Hình tam giác nền trắng, viền xanh.",
+            "c) Hình tròn nền xanh viền trắng."
+        ],
+        "correctAnswer": "a) Hình tam giác màu vàng, viền màu đỏ, giữa có hình vẽ màu đen biểu thị nội dung sự nguy hiểm cần biết."
+    },
+    {
+        "id": 10,
+        "question": "Đặc điểm của biển báo chỉ dẫn là gì?",
+        "options": [
+            "a) Hình tam giác nền vàng, viền đỏ.",
+            "b) Hình tròn nền xanh.",
+            "c) Hình chữ nhật hoặc hình vuông nền màu xanh lam, ở giữa có hình vẽ hoặc chữ chỉ dẫn màu trắng."
+        ],
+        "correctAnswer": "c) Hình chữ nhật hoặc hình vuông nền màu xanh lam, ở giữa có hình vẽ hoặc chữ chỉ dẫn màu trắng."
+    },
+    {
+        "id": 11,
+        "question": "Khi qua đường nên:",
+        "options": [
+            "a) Đi vào vạch kẻ đi bộ qua đường, nếu không có vạch đi bộ qua đường thì phải chọn nơi an toàn, quan sát kĩ xe trên đường rồi mới được qua.",
+            "b) Nắm tay nhau chạy qua đường.",
+            "c) Qua đường ở nơi bị che khuất."
+        ],
+        "correctAnswer": "a) Đi vào vạch kẻ đi bộ qua đường, nếu không có vạch đi bộ qua đường thì phải chọn nơi an toàn, quan sát kĩ xe trên đường rồi mới được qua."
+    },
+    {
+        "id": 12,
+        "question": "Khi đi xe máy trên đường, số người ngồi trên xe thế nào là không đúng quy định?",
+        "options": [
+            "a) Chở 1 người ngồi sau.",
+            "b) Chở 1 người lớn và 2 trẻ em dưới 11 tuổi ngồi sau.",
+            "c) Chở 2 người lớn ngồi sau."
+        ],
+        "correctAnswer": "c) Chở 2 người lớn ngồi sau."
+    },
+    {
+        "id": 13,
+        "question": "Khi tham gia giao thông tại nơi đường đang được sửa chữa, người lái xe cần phải làm gì?",
+        "options": [
+            "a) Vẫn điều khiển xe chạy với tốc độ bình thường.",
+            "b) Giảm tốc độ, quan sát biển chỉ dẫn hoặc người chỉ và thực hiện theo.",
+            "c) Tìm chỗ nào đó để lách xe đi qua càng nhanh càng tốt."
+        ],
+        "correctAnswer": "b) Giảm tốc độ, quan sát biển chỉ dẫn hoặc người chỉ và thực hiện theo."
+    },
+    {
+        "id": 14,
+        "question": "Đường nào là đường không an toàn?",
+        "options": [
+            "a) Đường có vạch đi bộ qua đường.",
+            "b) Đường có trải nhựa hoặc bê -- tông và có dải phân cách cố định.",
+            "c) Đường có nhiều cây cối và nhà cửa che khuất tầm nhìn."
+        ],
+        "correctAnswer": "c) Đường có nhiều cây cối và nhà cửa che khuất tầm nhìn."
+    },
+    {
+        "id": 15,
+        "question": "Phương tiện giao thông nào được ưu tiên khi tham gia giao thông.",
+        "options": [
+            "a) Xe cứu hỏa.",
+            "b) Xe đưa đón học sinh.",
+            "c) Xe chở hàng."
+        ],
+        "correctAnswer": "a) Xe cứu hỏa."
+    },
+    {
+        "id": 16,
+        "question": "Khi lên, xuống ô tô cần phải làm gì?",
+        "options": [
+            "a) Chỉ lên xuống khi xe đã dừng hẳn.",
+            "b) Khi lên xuống xe phải đi theo thứ tự, không chen lấn, xô đẩy.",
+            "c) Cả 2 ý trên."
+        ],
+        "correctAnswer": "c) Cả 2 ý trên."
+    },
+    {
+        "id": 17,
+        "question": "Khi đi trên đường, thấy 1 vụ tai nạn giao thông, em làm gì?",
+        "options": [
+            "a) Giữ nguyên hiện trường vụ tai nạn, báo cho một người lớn nào đó đến để họ tìm người giải quyết, tham gia cấp cứu người bị nạn nếu có thể.",
+            "b) Vào xem để thỏa trí tò mò.",
+            "c) Bỏ chạy vì sợ."
+        ],
+        "correctAnswer": "a) Giữ nguyên hiện trường vụ tai nạn, báo cho một người lớn nào đó đến để họ tìm người giải quyết, tham gia cấp cứu người bị nạn nếu có thể."
+    },
+    {
+        "id": 18,
+        "question": "Hành vi nào của người đi xe đạp trên đường không an toàn",
+        "options": [
+            "a) Lạng lách đánh võng.",
+            "b) Đèo nhau đi dàn hàng ngang.",
+            "c) Cả 2 ý trên đều đúng."
+        ],
+        "correctAnswer": "c) Cả 2 ý trên đều đúng."
+    },
+    {
+        "id": 19,
+        "question": "Quy định nào để đảm bảo an toàn trên đường đi?",
+        "options": [
+            "a) Đi vào đường cấm, đường ngược chiều.",
+            "b) Đi đúng hướng đường, làn đường cho phép.",
+            "c) Đi xe máy che ô, buông thả 2 tay."
+        ],
+        "correctAnswer": "b) Đi đúng hướng đường, làn đường cho phép."
+    },
+    {
+        "id": 20,
+        "question": "Những hành vi nào dưới đây gây nguy hiểm trên đường?",
+        "options": [
+            "a) Đá bóng trên đường.",
+            "b) Vừa chạy trên đường vừa nô đùa.",
+            "c) Cả 2 ý trên."
+        ],
+        "correctAnswer": "c) Cả 2 ý trên."
+    },
+    {
+        "id": 21,
+        "question": "Em đang đi bộ trên đường, có người quen mời em đi xe máy mà em và người đó đều không có mũ bảo hiểm, em sẽ làm gì?",
+        "options": [
+            "a) Lên xe ngồi luôn, vì đi bộ mệt.",
+            "b) Cảm ơn họ vì đã mời ngồi xe nhưng nhất định không lên xe vì em không đội mũ bảo hiểm.",
+            "c) Lên xe ngồi và dặn họ đi chậm, quan sát cảnh sát giao thông sợ bị phạt vì em không có mũ bảo hiểm."
+        ],
+        "correctAnswer": "b) Cảm ơn họ vì đã mời ngồi xe nhưng nhất định không lên xe vì em không đội mũ bảo hiểm."
+    },
+    {
+        "id": 22,
+        "question": "Nếu em được bố mẹ đèo bằng xe máy đi tới một con đường có gắn biển báo cấm xe máy đi vào, em sẽ làm gì?",
+        "options": [
+            "a) Ngồi nguyên trên xe như không nhìn thấy gì?",
+            "b) Nhắc bố mẹ không nên đi vào con đường đó, vì đó là đường xe máy không được đi."
+        ],
+        "correctAnswer": "b) Nhắc bố mẹ không nên đi vào con đường đó, vì đó là đường xe máy không được đi."
+    },
+    {
+        "id": 23,
+        "question": "Khi tham gia giao thông bằng xe máy trên đường, được phép:",
+        "options": [
+            "a) Chở hàng cồng kềnh.",
+            "b) Không đội mũ bảo hiểm.",
+            "c) Đi đúng phần đường, chở đúng số người quy định, phải đội mũ bảo hiểm."
+        ],
+        "correctAnswer": "c) Đi đúng phần đường, chở đúng số người quy định, phải đội mũ bảo hiểm."
+    },
+    {
+        "id": 24,
+        "question": "Khi đi xe đạp trên đường cần phải làm gì?",
+        "options": [
+            "a) Luôn đi đúng phần đường quy định, đi về phía bên phải.",
+            "b) Qua chỗ đường giao nhau phải tuân theo hiệu lệnh tín hiệu đèn hoặc phải quan sát thật an toàn mới đi.",
+            "c) Khi muốn đổi hướng rẽ phải, rẽ trái phải đi chậm, giơ tay xin đường và chú ý quan sát xe.",
+            "d) Thực hiện tất cả các điều trên."
+        ],
+        "correctAnswer": "d) Thực hiện tất cả các điều trên."
+    },
+    {
+        "id": 25,
+        "question": "Muốn phòng tránh tai nạn giao thông đường bộ, mỗi học sinh và mỗi công dân cần phải làm gì?",
+        "options": [
+            "a) Tìm hiểu học tập để biết rõ về Luật an toàn giao thông đường bộ.",
+            "b) Thận trọng khi tham gia giao thông trên đường.",
+            "c) Không đùa nghịch, chạy nhảy hoặc đá bóng dưới lòng đường.",
+            "d) Thực hiện tất cả các điều trên."
+        ],
+        "correctAnswer": "d) Thực hiện tất cả các điều trên."
+    },
+    {
+        "id": 26,
+        "question": "Em cùng các bạn đi học về thấy một số bạn chơi đùa trên đường, em sẽ làm gì ?",
+        "options": [
+            "A. Nhắc các bạn không chơi đùa trên đường vì không an toàn.",
+            "B. Vui chơi cùng các bạn.",
+            "C. Vẫn đi bình thường như không có việc gì xảy ra."
+        ],
+        "correctAnswer": "A. Nhắc các bạn không chơi đùa trên đường vì không an toàn."
+    },
+    {
+        "id": 27,
+        "question": "Em và bạn em muốn qua đường nhưng quãng đường ấy có nhiều xe cộ đi lại, em sẽ làm thế nào để qua đường an toàn ?",
+        "options": [
+            "A. Đứng chờ lúc nào vắng xe sẽ chạy nhanh qua.",
+            "B. Nhờ người lớn dắt qua."
+        ],
+        "correctAnswer": "B. Nhờ người lớn dắt qua."
+    },
+    {
+        "id": 28,
+        "question": "Em được người lớn đèo bằng xe máy đi trên đường, em phải ngồi thế nào cho an toàn ?",
+        "options": [
+            "A. Đội mũ bảo hiểm và ngồi trước người lớn.",
+            "B. Đội mũ bảo hiểm, ngồi sau người lớn và bám chắc vào người lớn.",
+            "C. Đội mũ bảo hiểm và ngồi sau người lớn."
+        ],
+        "correctAnswer": "B. Đội mũ bảo hiểm, ngồi sau người lớn và bám chắc vào người lớn."
+    },
+    {
+        "id": 29,
+        "question": "Bạn hãy cho biết luật giao thông quy định bao nhiêu tuổi mới được điều khiển mô tô, xe máy ?",
+        "options": [
+            "A. 17 tuổi",
+            "B. 18 tuổi",
+            "C. 19 tuổi"
+        ],
+        "correctAnswer": "B. 18 tuổi"
+    },
+    {
+        "id": 30,
+        "question": "Bạn hãy cho biết trong những trường hợp sau trường hợp nào không vi phạm luật giao thông ?",
+        "options": [
+            "A. Đi xe đạp đèo 3 người",
+            "B. Đi xe đạp chở một người đằng sau",
+            "C. Đi xe ngược chiều vào đường một chiều"
+        ],
+        "correctAnswer": "B. Đi xe đạp chở một người đằng sau"
+    },
+    {
+        "id": 31,
+        "question": "Khi đi học về các em có được đi hàng ba, hàng tư không ?",
+        "options": [
+            "A. Có",
+            "B. Không"
+        ],
+        "correctAnswer": "B. Không"
+    },
+    {
+        "id": 32,
+        "question": "Khi đi ra đường đặc biệt là những tuyến đường huyện, tỉnh, đường quốc lộ các em nên đi với những người nào ?",
+        "options": [
+            "A. Đi với bạn",
+            "B. Đi với người lớn",
+            "C. Đi với em trai"
+        ],
+        "correctAnswer": "B. Đi với người lớn"
+    },
+    {
+        "id": 33,
+        "question": "Mọi người khi ngồi trên xe mô tô, xe gắn máy phải ?",
+        "options": [
+            "A. Đội mũ",
+            "B. Đội nón",
+            "C. Đội mũ bảo hiểm"
+        ],
+        "correctAnswer": "C. Đội mũ bảo hiểm"
+    },
+    {
+        "id": 34,
+        "question": "Khi đi học về các em phải thực hiện luật giao thông như thế nào ?",
+        "options": [
+            "A. Đi về phía bên tay phải của mình",
+            "B. Không được tụ tập gây ách tắc giao thông",
+            "C. Không được đi hàng ba, hàng tư",
+            "D. Tất cả các ý trên"
+        ],
+        "correctAnswer": "D. Tất cả các ý trên"
+    },
+    {
+        "id": 35,
+        "question": "Đèn hiệu để điều khiển các loại xe đi đúng có mấy màu ?",
+        "options": [
+            "A. Hai màu",
+            "B. Ba màu",
+            "C. Bốn màu"
+        ],
+        "correctAnswer": "B. Ba màu"
+    }
+]

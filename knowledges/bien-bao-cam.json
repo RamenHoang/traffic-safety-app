@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Biển đường cấm 101",
+        "image": "images/bien-bao-cam/bien-duong-cam-101.png",
+        "description": []
+    },
+    {
+        "name": "Biển cấm đi ngược chiều 102",
+        "image": "images/bien-bao-cam/bien-cam-di-nguoc-chieu-102.png",
+        "description": []
+    },
+    {
+        "name": "Biển cấm đi thẳng 401",
+        "image": "images/bien-bao-cam/bien-cam-di-thang-401.png",
+        "description": []
+    },
+    {
+        "name": "Biển cấm rẻ phải 402",
+        "image": "images/bien-bao-cam/bien-cam-re-phai-402.png",
+        "description": []
+    },
+    {
+        "name": "Biển cấm rẽ trái 403",
+        "image": "images/bien-bao-cam/bien-cam-re-trai-403.png",
+        "description": []
+    },
+    {
+        "name": "Biển cấm quay đầu 405",
+        "image": "images/bien-bao-cam/bien-cam-quay-dau-405.png",
+        "description": []
+    },
+    {
+        "name": "Biển cấm đỗ xe 406",
+        "image": "images/bien-bao-cam/bien-cam-do-xe-406.png",
+        "description": []
+    },
+    {
+        "name": "Biển cấm dừng xe và đỗ xe 407",
+        "image": "images/bien-bao-cam/bien-cam-dung-xe-do-xe-407.png",
+        "description": []
+    },
+    {
+        "name": "Biển cấm đi bộ 606",
+        "image": "images/bien-bao-cam/bien-cam-di-bo-606.png",
+        "description": []
+    },
+    {
+        "name": "Biển cấm xe đạp 607",
+        "image": "images/bien-bao-cam/bien-cam-xe-dap-607.png",
+        "description": []
+    }
+]
