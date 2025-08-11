@@ -152,9 +152,10 @@ Bao gồm các chủ đề:
 - **Accessibility:** Hỗ trợ phím tắt và screen reader
 - **Performance:** Tối ưu hóa loading và animations
 - **Color Scheme:** 
-  - Primary: Blue (#1976d2)
+  - Primary: Orange (#F4A326)
+  - Primary Dark: (#E69114)
   - Success: Green (#4caf50)
-  - Warning: Orange (#ff9800)
+  - Warning: Orange (#F4A326)
   - Error: Red (#f44336)
 
 ## 🔧 Scripts
